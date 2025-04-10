@@ -22,7 +22,7 @@
 # Link to video demonstration for final submission:
 # - https://youtu.be/FnSj8IIOolY
 # Are you OK with us sharing the video with people outside course staff?
-# - yes , and please share this project github link as well! #
+# - yes https://github.com/jeongyu6/Assembly-Project.git, and please share this project github link as well! #
 # Any additional information that the TA needs to know:
 # - It seemed too hard for the player to win the game with the moving enemy. 
 # So, what I did was that I only caused it to create a collision when it touches the enemies
